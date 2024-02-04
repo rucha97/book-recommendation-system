@@ -5,11 +5,13 @@ This project was implemented as a part of the Big Data Analytics course taken at
 It uses content-based and collaborative filtering approaches.
 
 ## Code Structure
-- `model`
-        -  `dataExploration.ipynb`
-        - `data_preprocessing.ipynb`
-        - `content_based.ipynb` - model 1
-        - `collaborative_filtering.ipynb` - model 2
+
+- `model/`
+  - `dataExploration.ipynb`
+  - `data_preprocessing.ipynb`
+  - `content_based.ipynb` - model 1
+  - `collaborative_filtering.ipynb` - model 2
+
 
 ## Data Preprocessing
 ### Data Cleaning
